@@ -5,3 +5,6 @@
 <a href="TEMPORAL ENSEMBLING FOR SEMI-SUPERVISED
 LEARNING"> TEMPORAL ENSEMBLING FOR SEMI-SUPERVISED
 LEARNING</a><br>
+
+<a href="https://paperswithcode.com/paper/high-resolution-network-for-photorealistic">High-Resolution Network for Photorealistic Style Transfer
+</a><br>
